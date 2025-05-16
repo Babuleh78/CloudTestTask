@@ -20,12 +20,12 @@ pip install playwright
 playwright install
 ```
 ## Запуск скриптов
-Python
+Python list info
 ```bash
 python list_info.py
 ```
 Скрипт выведет необходимую информацию о массиве (четные элементы, наибольшее и наименьшее число, отсортированный по возрастанию массив)
-Playwright
+Playwright Test
 
 ```bash
 python playwright_test.py
